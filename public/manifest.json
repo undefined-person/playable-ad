@@ -1,0 +1,45 @@
+{
+  "bundles": [
+    {
+      "name": "game-screen",
+      "assets": [
+        {
+          "alias": "background",
+          "src": "default_screen/Kitchen.png"
+        },
+        {
+          "alias": "banana",
+          "src": "default_screen/banana.png"
+        },
+        {
+          "alias": "failStamp",
+          "src": "default_screen/failStamp.png"
+        },
+        {
+          "alias": "winStamp",
+          "src": "default_screen/winStamp.png"
+        },
+        {
+          "alias": "Logo",
+          "src": "default_screen/LOGO_BB.png"
+        },
+        {
+          "alias": "maindish",
+          "src": "default_screen/maindish.png"
+        },
+        {
+          "alias": "win1",
+          "src": "default_screen/win1.png"
+        },
+        {
+          "alias": "win2",
+          "src": "default_screen/win2.png"
+        },
+        {
+          "alias": "plate",
+          "src": "default_screen/plate.png"
+        }
+      ]
+    }
+  ]
+}
